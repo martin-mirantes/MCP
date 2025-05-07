@@ -1,4 +1,4 @@
-# Descripción del Proyecto: Backend MCP (Servidor de Control Principal)
+# Descripción del Proyecto: Backend MCP (Model context protocol)
 
 ## 1. Introducción y Objetivo
 
