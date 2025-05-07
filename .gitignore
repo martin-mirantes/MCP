@@ -60,3 +60,5 @@ htmlcov/
 # Secrets (example, adjust as needed)
 # local_settings.py
 # secrets.json
+
+.roo/
